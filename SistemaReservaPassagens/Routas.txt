@@ -1,0 +1,4 @@
+Nampula - Tete,1200.0,Classe Economica
+Nampula - Inhambane,2200.0,Classe Economica
+Nampula - Manica,1300.0,Classe Economica
+Nampula - Cabo Delgado,1300.0,Primeira Classe
